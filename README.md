@@ -1,5 +1,6 @@
 # Data Professional Survey Dashboard - Power BI
 
+![Screenshot 2023-09-07 184843](https://github.com/kalpana614/Data_Professional_survey_Dashboard_PowerBI/assets/97904503/f67acb3f-1fb3-4d19-a0be-3904cc30a1f6)
 
 ## Overview
 
